@@ -14,10 +14,10 @@ The project features a simple and visually appealing QR code component that can 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://qr-code-sleek.netlify.app/
 
 ## My process
+1. I started with creating the HTML structure, then when I was done I went ahead with creating the base styling with internal CSS where I used the CSS grid to determine how the QR-code div would be placed on the screen, then I styles the image to give it a responsive style, then I worked on the QR-code div which was holding the qr-image and the two paragraphs. Then I styled the different paragraphs.
 
 ### Built with
 
